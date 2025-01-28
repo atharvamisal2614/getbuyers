@@ -51,13 +51,11 @@ const Testimonials = () => {
     };
 
     return (
-        <section className="relative body-font pb-4 md:py-10">
+        <section className="relative body-font pb-4 py-5">
             <div className="container max-w-7xl relative z-10 px-5 py-6 mx-auto lg:px-24">
-                <h2 className="text-2xl md:text-3xl font-bold text-center italic mb-8">
-                    <span className='text-blue-600'> Client&apos;s Feedback: </span>
-                    Our Heritage !!!
-
-                </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-center text-blue-600 mb-8">
+          Client&apos;s Feedback: <span className="text-black italic">Our Heritage</span>
+        </h2>
                 <Slider
                     {...{
                         dots: true,
@@ -89,11 +87,15 @@ const Testimonials = () => {
                                 ))}
                             </div>
                             <h2 className="text-blue-600 font-bold title-font tracking-wider text-md">{testimonial.name}</h2>
-
                         </div>
                     ))}
                 </Slider>
             </div>
+            <div className="flex justify-center mt-8">
+        <button className="bg-transparent p-3 rounded-md border border-blue-600 text-blue-600 hover:text-white hover:bg-blue-600 transition ease-in-out duration-300">
+          Add Reviews
+        </button>
+      </div>
         </section>
 
     );

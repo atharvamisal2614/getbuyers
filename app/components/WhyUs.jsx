@@ -35,7 +35,7 @@ const WhyUs = () => {
   ];
 
   return (
-    <section className="pb-4 md:py-10">
+    <section className="pb-4 py-16">
       <div className="max-w-7xl px-5 py-6 mx-auto lg:px-24">
         <h2 className="text-2xl md:text-3xl font-bold text-center text-blue-600 mb-8">
           Get Buyers: <span className="text-black italic">The Perfect Choice</span>
