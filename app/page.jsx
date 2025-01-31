@@ -10,14 +10,14 @@ import WhyUs from "./components/WhyUs";
 export default function Home() {
   return (
     <>
-      <Navbar />
+ 
       <HomeCarousel />
       <WhyUs />
       <Suppliers />
       <Buyers />
       <Contact />
       <Testimonials />
-      <Footer />
+
     </>
   );
 }

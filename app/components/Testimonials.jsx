@@ -1,5 +1,4 @@
 "use client";
-import Image from 'next/image';
 import React from 'react';
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
@@ -48,12 +47,13 @@ const Testimonials = () => {
         speed: 1000,
         slidesToShow: 1,
         slidesToScroll: 1,
+   
     };
 
     return (
-        <section className="relative body-font pb-4 py-5">
-            <div className="container max-w-7xl relative z-10 px-5 py-6 mx-auto lg:px-24">
-            <h2 className="text-2xl md:text-3xl font-bold text-center text-blue-600 mb-8">
+        <section className="relative body-font pb-4 py-5 bg-cyan-50">
+            <div className="container max-w-7xl relative z-10 px-5 py-6 mx-auto">
+            <h2 className="text-xl md:text-3xl font-bold text-center text-blue-600 mb-8">
           Client&apos;s Feedback: <span className="text-black italic">Our Heritage</span>
         </h2>
                 <Slider
@@ -63,6 +63,7 @@ const Testimonials = () => {
                         speed: 1000,
                         slidesToShow: 1,
                         slidesToScroll: 1,
+                        arrows:false
                     }}
                 >
                     {testimonials.map((testimonial) => (

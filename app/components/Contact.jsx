@@ -4,8 +4,9 @@ import { FaEnvelope, FaPhoneAlt, FaMapMarkerAlt, FaWhatsapp } from "react-icons/
 
 const Contact = () => {
   return (
-    <div className="container mx-auto px-4 py-20">
-     <h2 className="text-2xl md:text-3xl font-bold text-center text-blue-600 mb-8">
+    <section className="pb-4 py-16 bg-cyan-50">
+    <div className="container mx-auto px-4">
+     <h2 className="text-xl md:text-3xl font-bold text-center text-blue-600 mb-4">
                 Your Questions: <span className="text-black italic">Our Priority</span>
             </h2>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 p-5">
@@ -106,6 +107,7 @@ const Contact = () => {
         </div>
       </div>
     </div>
+    </section>
   );
 };
 

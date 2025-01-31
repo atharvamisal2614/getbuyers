@@ -1,0 +1,225 @@
+[
+  {
+    "question": "Section 1: Live Animals; Animal Products (Chatper 1-5)",
+    "answer": [
+      {
+        "bullet": "Chapter 01",
+        "description": "Live Animals."
+      },
+      {
+        "bullet": "Chapter 02",
+        "description": "Meat and Edible meat Offal."
+      },
+      {
+        "bullet": "Chapter 03",
+        "description": "Fish and Crustaceans, Molluscs and Other Aquatic Invertebrates."
+      },
+      {
+        "bullet": "Chapter 04",
+        "description": "Dairy Products, Birds Eggs, Natural Honey, Edible Products of Animal Origin, Not Elsewhere Specified or Included."
+      },
+      {
+        "bullet": "Chapter 05",
+        "description": "Products of Animal Origin, Not Elsewhere Specified or Included."
+      }
+    ]
+  },
+
+
+  {
+    "question": "Section 2: Vegetable Products (Chapter 6-14)",
+    "answer": [
+      {
+        "bullet": "Chapter 06",
+        "description": "Live Trees and Other Plants, Bulbs, Roots and the Like, Cut Flowers and Ornamental Foliage."
+      },
+      {
+        "bullet": "Chapter 07",
+        "description": "Edible Vegetables and Certain Roots and Tubers."
+      },
+      { 
+        "bullet": "Chapter 08",
+        "description": "Edible Fruit and Nuts, Peels of Citrus Fruits or Melons."
+      },
+      {
+        "bullet": "Chapter 09",
+        "description": "Coffee, Tea, Mate and Spices."
+      },
+      {
+        "bullet": "Chapter 10",
+        "description": "Cereals."
+      },
+      {
+        "bullet": "Chapter 11",
+        "description": "Products of the Milling Industry, Malt, Starches, Unsulin, Wheat Gluten."
+      },
+      {
+        "bullet": "Chapter 12",
+        "description": "Oil Seeds and Oleaginous Fruits, Miscellaneous Grains, Seeds and Fruit, Industrial or Medicinal Plants, Straw and Fodder."
+      },
+      {
+        "bullet": "Chapter 13",
+        "description": "Lac, Gums, Resins and other Vegetable Saps and Extracts."
+      },
+      {
+        "bullet": "Chapter 14",
+        "description": "Vegetable Planting Materials, Vegetable Products Not Elsewhere Specified or Included."
+      }
+
+    ]
+  },
+
+  {
+    "question": "Section 3: Animal or Vegetable Fats and Oils and Their Cleavage Products, Prepared Edible Fats, Animal or Vegetable Waxes (Chapter 15)",
+    "answer": [
+      {
+        "bullet": "Chapter 15",
+        "description": "Animal or Vegetable Fats and Oil and their Cleavage Products, Prepared Edible Fats, AAnimal or Vegetable Waxes.."
+      }
+    ]
+  },
+
+  {
+    "question": "Section 4: Prepared Foodstuffs; Beverages, Spirits and Vinegar, Tobacco and Manufactured Tobacco substitutes (Chapter 16-24)",
+    "answer": [
+      {
+        "bullet": "Chapter 16",
+        "description": "Preparation of Meat of Fish or of Crustaceans, Molluscs or Other Aquatic Invertebrates."
+      },
+      {
+        "bullet": "Chapter 17",
+        "description": "Sugars and Sugar Confectionery."
+      },
+      {
+        "bullet": "Chapter 18",
+        "description": "Cocoa and Cocoa Preparations."
+      },
+      {
+        "bullet": "Chapter 19",
+        "description": "Preparations of Cereals, Flour, Starch or Milk, Pastry Cooks Products."
+      },
+      {
+        "bullet": "Chapter 20",
+        "description": "Preparation of Vegetables, Fruit, Nuts or Other Parts of Plants."
+      },
+      {
+        "bullet": "Chapter 21",
+        "description": "Miscellaneous Edible Preparations."
+      },
+      {
+        "bullet": "Chapter 22",
+        "description": "Beverages, Spirits and Vinegar."
+      },
+      {
+        "bullet": "Chapter 23",
+        "description": "Residues and Waste from the Food Industries, Prepared Animal Fodder."
+      },
+      {
+        "bullet": "Chapter 24",
+        "description": "Tobacco and Manufactured Tobacco Substitutes."
+      }
+    ]
+  },
+
+
+  {
+    "question": "Section 5: Mineral Products (Chapter 25-27)",
+    "answer": [
+      {
+        "bullet": "Chapter 25",
+        "description": "Salt, Sulpher, Earths and Stone, Plastering Materials, Lime and Cement."
+      },
+      {
+        "bullet": "Chapter 26",
+        "description": "Ores, Slag and Ash."
+      },
+      {
+        "bullet": "Chapter 27",
+        "description": "Mineral Fuels, Mineral Oils and Products of Their Distillation Bituminous Substances, Minreal Waxes."
+      }
+    ]
+  },
+
+
+  {
+    "question": "Section 6: Products of the Chemicals or Allied Industries (Chapter 28-38)",
+    "answer": [
+      {
+        "bullet": "Chapter 28",
+        "description": "Inorganic Chemicals, Organic or Inorganic Compounds of Precious Metals, of Rare-Earch Metals, or Radioactive Elements or of Isotopes."
+      },
+      {
+        "bullet": "Chapter 29",
+        "description": "Organic Chemicals."
+      },
+      {
+        "bullet": "Chapter 30",
+        "description": "Pharmaceutical Products."
+      },
+      {
+        "bullet": "Chapter 31",
+        "description": "Fertilizers."
+      },
+      {
+        "bullet": "Chapter 32",
+        "description": "Tanning or Dyeing Extracts, Tannis and Their Derivatives, Dyes, Pigments and Other Colouring Matter, Paints and Varnishes, Putty and Other Mastics, Inks."
+      },
+      {
+        "bullet": "Chapter 33",
+        "description": "Essential Oils and Resinoids, Perfumery, Cosmetic or Toilet Preparations."
+      },
+      {
+        "bullet": "Chapter 34",
+        "description": "Soap, Organic Surface-active Agents, Washing Preparations, Lubricating Preparations, Artificial Waxes, Prepared Waxes, Polishing or Scourinng Preparations, Candles and Similar Articles, Modeling Pastes, Dental Waxes and Dental Preparations with a Basis of Plaster."
+      },
+      {
+        "bullet": "Chapter 35",
+        "description": "Albuminoidal Substances, Modified Starches, Glues, Enzymes."
+      },
+      {
+        "bullet": "Chapter 36",
+        "description": "Expolsive, Pyrotechnic Products, Matches, Pyrophoric Alloys, Certain Combustible Preparations."
+      },
+      {
+        "bullet": "Chapter 37",
+        "description": "Photographic or Cinematographic Goods."
+      },
+      {
+        "bullet": "Chapter 38",
+        "description": "Miscellaneous Chemical Products."
+      }
+    ]
+  },
+
+  {
+    "question": "Section 7: Plastics and Articles thereof; Rubber and Articles thereof (Chapter 39 - 40)",
+    "answer": [
+      {
+        "bullet": "Chapter 39",
+        "description": "Plastics and Articles."
+      },
+      {
+        "bullet": "Chapter 40",
+        "description": "Rubber and Articles."
+      }
+    ]
+  },
+
+  {
+    "question": "Section 8: Raw Hides and Skins, Leather, Furskins and Articles threrof, Saddlery and Harness, Travel Goods, Handbags and Similar Containers, Articles of Animal Gut (Chapter 41 - 43)",
+    "answer": [
+      {
+        "bullet": "Chapter 41",
+        "description": "Raw Hides and Skins (Other Than Furskins) and Leather."
+      },
+      {
+        "bullet": "Chapter 42",
+        "description": "Article of Leather, Saddlery and Harness, Travel Goods, Handbags and Similar Containers, Articles of Animal Gut (Other Than Silk-Worm Gut)"
+      },
+      {
+        "bullet": "Chapter 43",
+        "description": "Furskins and Artificial Manufactures."
+      }
+    ]
+  }
+]

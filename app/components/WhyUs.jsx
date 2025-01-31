@@ -35,9 +35,9 @@ const WhyUs = () => {
   ];
 
   return (
-    <section className="pb-4 py-16">
+    <section className="pb-4 py-16 bg-cyan-50">
       <div className="max-w-7xl px-5 py-6 mx-auto lg:px-24">
-        <h2 className="text-2xl md:text-3xl font-bold text-center text-blue-600 mb-8">
+        <h2 className="text-xl md:text-3xl font-bold text-center text-blue-600 mb-8">
           Get Buyers: <span className="text-black italic">The Perfect Choice</span>
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -48,7 +48,7 @@ const WhyUs = () => {
             >
               <div className="mb-4">{feature.icon}</div>
               <h3 className="text-xl font-semibold text-blue-700 mb-2">{feature.title}</h3>
-              <p className="text-gray-600 text-center">{feature.description}</p>
+              <p className="text-gray-800 text-center">{feature.description}</p>
             </div>
           ))}
         </div>

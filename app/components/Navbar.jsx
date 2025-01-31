@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div
       id="header-row"
-      className="z-50 fixed top-0 left-0 w-full bg-white text-blue-600 font-bold shadow-md"
+      className="z-50 fixed top-0 left-0 w-full bg-cyan-50 text-blue-600 font-bold shadow-md"
     >
       <div className="container mx-auto px-4">
         <header className="py-4">
@@ -25,7 +25,7 @@ const Navbar = () => {
               <ul className="flex items-center space-x-8 text-lg">
                 <li>
                   <a
-                    href="/index.html"
+                    href="/"
                     className="hover:text-blue-400"
                   >
                     Home
@@ -33,47 +33,20 @@ const Navbar = () => {
                 </li>
                 <li>
                   <a
-                    href="/about.htm"
+                    href="/exportimportdata"
                     className="hover:text-blue-400"
                   >
                     Export-Import Data
                   </a>
                 </li>
-
                 <li>
                   <a
-                    href="/strong.htm"
+                    href="/HSCodes"
                     className="block px-4 py-2 hover:text-blue-400 "
                   >
                     HS Code
                   </a>
                 </li>
-
-
-    
-
-
-
-                <li>
-                  <a
-                    href="/achievements.htm"
-                    className="block px-4 py-2 hover:text-blue-400 "
-                  >
-                    Why Trust Us?
-                  </a>
-                </li>
-
-
-                <li>
-                  <a
-                    href="/process.htm"
-                    className="hover:text-blue-400"
-                  >
-                    Real-time Buyers
-                  </a>
-                </li>
-
-
                 <li>
                   <a
                     href="/why_us.html"
@@ -82,7 +55,22 @@ const Navbar = () => {
                     Real-time Suppliers
                   </a>
                 </li>
-
+                <li>
+                  <a
+                    href="/process.htm"
+                    className="hover:text-blue-400"
+                  >
+                    Real-time Buyers
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/achievements.htm"
+                    className="block px-4 py-2 hover:text-blue-400 "
+                  >
+                    Why Trust Us?
+                  </a>
+                </li>
                 <li>
                   <a
                     href="/certifications.html"
@@ -91,15 +79,6 @@ const Navbar = () => {
                     Pricing
                   </a>
                 </li>
-              
-
-                
-
-                
-
-               
-                {/* </ul> */}
-
                 <li>
                   <a
                     href="/contacts.html"
@@ -110,8 +89,6 @@ const Navbar = () => {
                 </li>
               </ul>
             </nav>
-
-            {/* Mobile Menu */}
             <select
               className="block md:hidden border border-gray-300 bg-white text-blue-600 font-bold rounded p-2"
               onChange={(e) => {
@@ -119,8 +96,8 @@ const Navbar = () => {
               }}
             >
               <option value="/">Navigate to...</option>
-              <option value="/index.html">Home</option>
-              <option value="/about.htm">Export-Import Data</option>
+              <option value="/">Home</option>
+              <option value="/exportImportData">Export-Import Data</option>
               <option value="/products.html">Real-time Buyers</option>
               <option value="/process.htm">Real-time Suppliers</option>
               <option value="/facilities.htm">HS Codes</option>
