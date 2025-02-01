@@ -221,5 +221,263 @@
         "description": "Furskins and Artificial Manufactures."
       }
     ]
+  },
+
+  {
+    "question": "Section 9: Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of other Plaiting Materials; Basketware and Wickerwork (Chapter 44 - 46)",
+    "answer": [
+      {
+        "bullet": "Chapter 44",
+        "description": "WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL."
+      },
+      {
+        "bullet": "Chapter 45",
+        "description": "CORK AND ARTICLES OF CORK."
+      },
+      {
+        "bullet": "Chapter 46",
+        "description": "MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK."
+      }
+    ]
+  },
+
+  {
+    "question": "Section 10:  Pulp of Wood or of other Fibrous Cellulosic Material; Recovered (waste and Scrap) Paper or Paperboard; Paper and Paperboard and Articles thereof (Chapter 47 - 49)",
+    "answer": [
+      {
+        "bullet": "Chapter 47",
+        "description": "PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD."
+      },
+      {
+        "bullet": "Chapter 48",
+        "description": "PAPER AND PAPERBOARD; ARTICLES OF PAPER PULP, OF PAPER OR OF PAPERBOARD."
+      },
+      {
+        "bullet": "Chapter 49",
+        "description": "PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS."
+      }
+    ]
+  }, 
+
+
+  {
+    "question": "Section 11:  Textiles and Textile Articles (Chapter 50 - 63)",
+    "answer": [
+      {
+        "bullet": "Chapter 50",
+        "description": "Silk"
+      },
+      {
+        "bullet": "Chapter 51",
+        "description": "Wool, Fine or Coarse Animal Hair; Horsehair Yarn and Woven Fabric."
+      },
+      {
+        "bullet": "Chapter 52",
+        "description": "Cotton."
+      },
+      {
+        "bullet": "Chapter 53",
+        "description": "Other Vegetable Textile Fibres; Paper Yarn and Woven Fabrics of Paper Yarn."
+      },
+      {
+        "bullet": "Chapter 54",
+        "description": "Man-Made Filaments."
+      },
+      {
+        "bullet": "Chapter 55",
+        "description": "Man-Made Staple Fibres."
+      }
+    ]
+  },
+
+
+  {
+    "question": "Section 12: Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops and Parts thereof; Prepared Feathers and Articles Made therewith; Artificial Flowers; Articles of Human Hair (Chapter 64 - 67)",
+    "answer": [
+      {
+        "bullet": "Chapter 64",
+        "description": "Footwear, Gaiters and the Like; Parts of Such Articles"
+      },
+      {
+        "bullet": "Chapter 65",
+        "description": "Headgear and Parts Thereof."
+      },
+      {
+        "bullet": "Chapter 66",
+        "description": "Umbrellas, Sun Umbrellas, Walking-sticks, Seat-sticks, Whips, Riding-crops and Parts Thereof; Prepared Feathers and Articles Made Therewith; Artificial Flowers; Articles of Human Hair."
+      },
+      {
+        "bullet": "Chapter 67",
+        "description": "Feathers and Down, Prepared; and Articles Made of Feathers or of Down; Artificial Flowers; Articles of Human Hair."
+      }
+    ]
+  },
+
+
+  {
+    "question": "Section 13: Articles of Stone, Plaster, Cement, Asbestos, Mica or similar Materials; Ceramic Products; Glass and Glassware (Chapter 68 - 70)",
+    "answer": [
+      {
+        "bullet": "Chapter 68",
+        "description": "ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS"
+      },
+      {
+        "bullet": "Chapter 69",
+        "description": "CERAMIC PRODUCTS."
+      },
+      {
+        "bullet": "Chapter 70",
+        "description": "GLASS AND GLASSWARE."
+      }
+    ]
+  },
+
+
+  {
+    "question": "Section 14: Natural or Cultured Pearls, Precious or Semi-Precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles thereof; Imitation Jewellery; Coin (Chapter 71)",
+    "answer": [
+      {
+        "bullet": "Chapter 71",
+        "description": "NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN."
+      }
+    ]
+  },
+
+
+  {
+    "question": "Section 15:  Base Metals and Articles of Base Metal (Chapter 72 - 83)",
+    "answer": [
+      {
+        "bullet": "Chapter 72",
+        "description": "IRON AND STEEL."
+      },
+      {
+        "bullet": "Chapter 73",
+        "description": "ARTICLES OF IRON OR STEEL."
+      },
+      {
+        "bullet": "Chapter 74",
+        "description": "COPPER AND ARTICLES THEREOF."
+      },
+      {
+        "bullet": "Chapter 75",
+        "description": "NICKEL AND ARTICLES THEREOF."
+      },
+      {
+        "bullet": "Chapter 76",
+        "description": "ALUMINIUM AND ARTICLES THEREOF."
+      },
+      {
+        "bullet": "Chapter 78",
+        "description": "LEAD AND ARTICLES THEREOF."
+      },
+      {
+        "bullet": "Chapter 79",
+        "description": "ZINC AND ARTICLES THEREOF."
+      },
+      {
+        "bullet": "Chapter 80",
+        "description": "TIN AND ARTICLES THEREOF."
+      },
+      {
+        "bullet": "Chapter 81",
+        "description": "OTHER BASE METALS; CERMETS; ARTICLES THEREOF."
+      },
+      {
+        "bullet": "Chapter 82",
+        "description": "TOOLS, IMPLEMENTS, CUTLERY, SPOONS AND FORKS, OF BASE METAL; PARTS THEREOF OF BASE METAL."
+      },
+      {
+        "bullet": "Chapter 83",
+        "description": "MISCELLANEOUS ARTICLES OF BASE METAL."
+      }
+    ]
+  },
+
+  {
+    "question": "Section 16: Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accessories of such articles (Chapter 84 - 85)",
+    "answer": [
+      {
+        "bullet": "Chapter 84",
+        "description": "MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES"
+      },
+      {
+        "bullet": "Chapter 85",
+        "description": "ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES."
+      }
+    ]
+  },
+
+
+  
+  {
+    "question": "Section 17: Vehicles, Aircraft, Vessels and Associated Transport Equipment (Chapter 86 - 89)",
+    "answer": [
+      {
+        "bullet": "Chapter 86",
+        "description": "RAILWAY OR TRAMWAY LOCOMOTIVES, ROLLING-STOCK AND PARTS THEREOF; RAILWAY OR TRAMWAY TRACK FIXTURES AND FITTINGS AND PARTS THEREOF; MECHANICAL (INCLUDING ELECTRO-MECHANICAL) TRAFFIC SIGNALLING EQUIPMENT OF ALL KINDS"
+      },
+      {
+        "bullet": "Chapter 87",
+        "description": "VEHICLES; OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF."
+      },
+      {
+        "bullet": "Chapter 88",
+        "description": "AIRCRAFT, SPACECRAFT, AND PARTS THEREOF"
+      },
+      {
+        "bullet": "Chapter 89",
+        "description": "SHIPS, BOATS AND FLOATING STRUCTURES."
+      }
+    ]
+  },
+
+
+  {
+    "question": "Section 18: Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories thereof (Chapter 90 - 92)",
+    "answer": [
+      {
+        "bullet": "Chapter 90",
+        "description": "OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; PARTS AND ACCESSORIES THEREOF"
+      },
+      {
+        "bullet": "Chapter 91",
+        "description": "CLOCKS AND WATCHES AND PARTS THEREOF"
+      },
+      {
+        "bullet": "Chapter 92",
+        "description": "MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES OF SUCH ARTICLES"
+      }
+    ]
+  },
+
+  {
+    "question": "Section 19: Arms and Ammunition; Parts and Accessories thereof (Chapter 93)",
+    "answer": [
+      {
+        "bullet": "Chapter 93",
+        "description": "ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF"
+      }
+    ]
+  },
+
+  {
+    "question": "Section 19: Miscellaneous Manufactured Articles (Chapter 94 - 96)",
+    "answer": [
+      {
+        "bullet": "Chapter 94",
+        "description": "FURNITURE; BEDDING, MATTRESSES, MATTRESS SUPPORTS, CUSHIONS AND SIMILAR STUFFED FURNISHINGS; LAMPS AND LIGHTING FITTINGS, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE; PREFABRICATED BUILDINGS"
+      },
+      {
+        "bullet": "Chapter 95",
+        "description": "TOYS, GAMES AND SPORTS REQUISITES; PARTS AND ACCESSORIES THEREOF"
+      },
+      {
+        "bullet": "Chapter 96",
+        "description": "MISCELLANEOUS MANUFACTURED ARTICLES"
+      }
+    ]
   }
+
+
 ]
