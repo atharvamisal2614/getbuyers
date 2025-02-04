@@ -36,8 +36,7 @@ export default function Footer() {
           <h6 className="text-lg font-semibold mb-4">Information</h6>
           <ul className="space-y-2">
             <li><a href="/about" className="hover:text-gray-300">About Us</a></li>
-            <li><a href="/about" className="hover:text-gray-300">Countries</a></li>
-
+            <li><a href="/countries" className="hover:text-gray-300">Countries</a></li>
             <li><a href="/term-condition" className="hover:text-gray-300">Terms and Conditions</a></li>
             <li><a href="/privacy-policy" className="hover:text-gray-300">Privacy Policy</a></li>
             <li><a href="/contact" className="hover:text-gray-300">Disclaimer</a></li>
