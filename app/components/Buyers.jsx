@@ -46,7 +46,7 @@ const Buyers = () => {
     return (
         <section className="pb-4 py-16 bg-cyan-50">
             <div className="container mx-auto pb-4 ">
-                <h2 className="text-xxl md:text-3xl font-bold text-center text-blue-600 mb-4">
+                <h2 className="text-xl md:text-3xl font-bold text-center text-blue-600 mb-4">
                     Real-time Buyers: <span className="text-black italic">Connect Them</span>
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

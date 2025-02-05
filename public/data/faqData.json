@@ -477,7 +477,27 @@
         "description": "MISCELLANEOUS MANUFACTURED ARTICLES"
       }
     ]
+  },
+
+  {
+    "question": "Section 21: Works of Art, Collecters, Pieces and Antiques. (Chapter 97 - 99)",
+    "answer": [
+      {
+        "bullet": "Chapter 97",
+        "description":"Works of Art, Collectors Peices, and Antiques."
+      },
+      {
+        "bullet": "Chapter 98",
+        "description": "Projects Goods, Some Special Uses."
+      },
+      {
+        "bullet": "Chapter 97",
+        "description": "Miscellaneous Goods."
+      }
+    ]
   }
+
+ 
 
 
 ]
