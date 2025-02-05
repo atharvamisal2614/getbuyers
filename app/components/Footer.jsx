@@ -18,7 +18,7 @@ export default function Footer() {
         
           <li><Link href="/" className="hover:text-gray-300">Home</Link></li>
             <li><Link href="/dummy" className="hover:text-gray-300">About Us</Link></li>
-            
+            <li><Link href="/countries" className="hover:text-gray-300">Countries</Link></li>
             <li><Link href="/dummy" className="hover:text-gray-300">Get Real-time Buyers</Link></li>
             <li><Link href="/dummy" className="hover:text-gray-300">Get Real-time Sellers</Link></li>
             <li><Link href="/HSCodes" className="hover:text-gray-300">HS Codes</Link></li>
@@ -30,7 +30,7 @@ export default function Footer() {
         <div>
           <h6 className="text-lg font-semibold mb-4">Legal</h6>
           <ul className="space-y-2">
-            <li><Link href="/about" className="hover:text-gray-300">Privacy Policy</Link></li>
+            <li><Link href="/privacy-policy" className="hover:text-gray-300">Privacy Policy</Link></li>
             <li><Link href="/countries" className="hover:text-gray-300">Terms & Conditions</Link></li>
             <li><Link href="/term-condition" className="hover:text-gray-300">Refund Policy</Link></li>
             <li><Link href="/privacy-policy" className="hover:text-gray-300">Disclaimer</Link></li>
