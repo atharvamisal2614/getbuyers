@@ -1,9 +1,9 @@
 "use client";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
-import 'swiper/css/navigation'; // Ensure navigation styles are imported
+import 'swiper/css/navigation'; 
 import 'swiper/css/pagination';
-import { Autoplay, Navigation } from 'swiper/modules'; // Import Navigation module
+import { Autoplay, Navigation } from 'swiper/modules'; 
 
 const HomeCarousel = () => {
   const slides = [
@@ -12,14 +12,13 @@ const HomeCarousel = () => {
     { image: '/images/dummy.png' },
     { image: '/images/dummy.png' },
   ];
-
   return (
-    <div className="w-full h-[32.375%] bg-green-100">
+    <div className="w-full h-[32.375%] bg-cyan-50">
       <Swiper
-        modules={[Autoplay, Navigation]} // Add Navigation here
+        modules={[Autoplay, Navigation]} 
         autoplay={{ delay: 2000, disableOnInteraction: false }}
         loop
-        navigation // Enable navigation
+        navigation 
         className="h-full"
       >
         {slides.map((slide, index) => (

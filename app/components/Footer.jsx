@@ -4,6 +4,8 @@ import { FaFacebookF, FaTwitter, FaInstagram, FaYoutube, FaLinkedinIn } from "re
 export default function Footer() {
   const date = new Date();
   const currentYear = date.getFullYear();
+ 
+ 
   return (
     <footer className="bg-gray-800 text-white">
       <div className="container mx-auto py-12 px-4 grid md:grid-cols-4 gap-8">
@@ -24,9 +26,9 @@ export default function Footer() {
             <li><Link href="/HSCodes" className="hover:text-gray-300">HS Codes</Link></li>
             <li><Link href="/exportimportdata" className="hover:text-gray-300">Export Import Data</Link></li>
             <li><Link href="/dummy" className="hover:text-gray-300">Contact Us</Link></li>
+            <li><Link href="/careers" className="hover:text-gray-300">Careers</Link></li>
           </ul>
         </div>
-
         <div>
           <h6 className="text-lg font-semibold mb-4">Legal</h6>
           <ul className="space-y-2">
@@ -64,7 +66,7 @@ export default function Footer() {
           </Link>
         </div>
         <p className="text-sm text-center">
-          IIEIM &copy; {currentYear}. All Rights Reserved. Designed and Developed By
+          IIEIM &copy;{currentYear}.All Rights Reserved. Designed and Developed By
           <Link href="" target="_blank" rel="noopener noreferrer" className="text-white underline ml-1">Get Buyers</Link>
         </p>
       </div>
