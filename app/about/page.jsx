@@ -1,17 +1,13 @@
 "use client";
 import React from "react";
-
 import Image from "next/image";
-
-import { FaEnvelope, FaPhoneAlt, FaMapMarkerAlt, FaWhatsapp } from "react-icons/fa";
 import { AiFillTrophy } from "react-icons/ai";
 import { FaUsers, FaStar } from "react-icons/fa";
 import { BsFillRocketTakeoffFill } from "react-icons/bs";
 import { IoDiamond } from "react-icons/io5";
-
-
-import { FaLightbulb } from "react-icons/fa";
 import Careers from "../components/Careers";
+import { FaLightbulb } from "react-icons/fa";
+
 
 
 
@@ -150,7 +146,7 @@ const AboutUs = () => {
             </section>
 
             {/* Our Values section  */}
-            {/* <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
+            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-0 w-11/12 md:w-3/4 xl:w-2/3 shadow-lg rounded-lg overflow-hidden">
 
                  
@@ -189,13 +185,13 @@ const AboutUs = () => {
                     </div>
 
                 </div>
-            </section> */}
+            </section>
 
 
 
 
             {/* Meet Our Team  */}
-            {/* <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
+            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-0 w-11/12 md:w-3/4 xl:w-2/3 shadow-lg rounded-lg overflow-hidden">
                     {teamMembers.map((member, index) => (
                         <div key={index} className={`flex flex-col justify-start items-center ${member.bg} p-5 text-center`}>
@@ -216,9 +212,9 @@ const AboutUs = () => {
                         </div>
                     ))}
                 </div>
-            </section> */}
+            </section>
 
-            {/* <Careers /> */}
+          <Careers />
                     
      
         </div>
