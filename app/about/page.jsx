@@ -110,7 +110,6 @@ const AboutUs = () => {
             </section>
 
 
-            {/* Our Mission  */}
             <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
                 <div className="grid grid-cols-1 md:grid-cols-2 w-11/12 md:w-3/4 xl:w-2/3 h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
 
@@ -141,7 +140,6 @@ const AboutUs = () => {
                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis praesentium, earum illo sit quia aliquid consequatur ipsa hic quaerat, quo quae voluptas doloribus eaque? In ut accusamus quod. Repellat, harum.
                         </p>
                     </div>
-
                 </div>
             </section>
 
