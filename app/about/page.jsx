@@ -55,7 +55,7 @@ const AboutUs = () => {
         <div className="w-full">
             {/* About Us Section  */}
             <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
-                <div className="grid grid-cols-1 md:grid-cols-2 w-3/4 xl:w-2/3 h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
+                <div className="grid grid-cols-1 md:grid-cols-2 w-[90%] md:w-[90%] h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
                     <div className="flex flex-col justify-start items-start bg-white p-10 md:p-24 lg:p-24">
                         <h1 className="text-3xl md:text-5xl  text-blue-600 mb-6 md:mb-8">About Us</h1>
                         <p className="text-gray-700 text-lg leading-relaxed">
@@ -80,9 +80,9 @@ const AboutUs = () => {
 
             {/* Our Story section */}
             <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-20">
-                <div className="grid grid-cols-1 md:grid-cols-2 w-3/4 xl:w-2/3 h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
+                <div className="grid grid-cols-1 md:grid-cols-2 w-[90%] md:w-[90%] h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
                     <div className="w-full flex flex-col justify-start items-start bg-blue-600 p-10 md:p-24 lg:p-24">
-                        <h1 className="text-3xl md:text-5xl text-white mb-6 md:mb-8">What Makes us Successful</h1>
+                        <h1 className="text-3xl md:text-5xl text-white mb-6 md:mb-8">Our Growth Strategy</h1>
                         <ul className="text-white text-lg leading-relaxed list-decimal pl-6">
                             <li>Commitment to innovation and excellence</li>
                             <li>Customer-centric approach</li>
@@ -111,7 +111,7 @@ const AboutUs = () => {
 
 
             <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
-                <div className="grid grid-cols-1 md:grid-cols-2 w-11/12 md:w-3/4 xl:w-2/3 h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
+                <div className="grid grid-cols-1 md:grid-cols-2 w-11/12 md:w-[90%] h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
 
                     {/* Mission Section */}
                     <div className="flex flex-col justify-start items-center bg-white p-8 md:p-16 lg:p-20 text-center">
@@ -145,7 +145,7 @@ const AboutUs = () => {
 
             {/* Our Values section  */}
             <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-0 w-11/12 md:w-3/4 xl:w-2/3 shadow-lg rounded-lg overflow-hidden">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-0 w-11/12 md:w-[90%] shadow-lg rounded-lg overflow-hidden">
 
                  
                     <div className="flex flex-col justify-start items-center bg-blue-600 p-8 text-center">
@@ -190,7 +190,7 @@ const AboutUs = () => {
 
             {/* Meet Our Team  */}
             <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-0 w-11/12 md:w-3/4 xl:w-2/3 shadow-lg rounded-lg overflow-hidden">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-0 w-11/12 md:w-[90%] shadow-lg rounded-lg overflow-hidden">
                     {teamMembers.map((member, index) => (
                         <div key={index} className={`flex flex-col justify-start items-center ${member.bg} p-5 text-center`}>
                             <Image
