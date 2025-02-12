@@ -33,11 +33,12 @@ return country.name.toLowerCase().includes(searchTerm.toLowerCase())
         <h2 className="text-2xl md:text-3xl font-bold text-center text-blue-600 mb-8 italic">
           <span className="text-black"> Providing Data </span>Across{" "}
           <span className="text-black">These Countries</span>
+        <p className="text-sm  text-black">(Search Countries Here)</p>
         </h2>
         <div className="mb-8 flex justify-center">
           <input
             type="text"
-            placeholder="Search countries..."
+            placeholder="Eg. India"
             className="md:w-1/2 w-full p-2 border-2 focus:border-blue-500 focus:ring-1  rounded-lg"
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
@@ -71,11 +72,3 @@ return country.name.toLowerCase().includes(searchTerm.toLowerCase())
     </section>
   );
 }
-
-
-
-
-
-
-
-

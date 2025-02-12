@@ -5,13 +5,8 @@ import { AiFillTrophy } from "react-icons/ai";
 import { FaUsers, FaStar } from "react-icons/fa";
 import { BsFillRocketTakeoffFill } from "react-icons/bs";
 import { IoDiamond } from "react-icons/io5";
-import Careers from "../components/Careers";
 import { FaLightbulb } from "react-icons/fa";
-
-
-
-
-const AboutUs = () => {
+const AboutUs = () => { 
     const teamMembers = [
         {
             name: "John Doe",
@@ -54,9 +49,9 @@ const AboutUs = () => {
     return (
         <div className="w-full">
             {/* About Us Section  */}
-            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
+            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 ">
                 <div className="grid grid-cols-1 md:grid-cols-2 w-[90%] md:w-[90%] h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
-                    <div className="flex flex-col justify-start items-start bg-white p-10 md:p-24 lg:p-24">
+                    <div className="flex flex-col justify-start items-start bg-white p-10 md:p-20">
                         <h1 className="text-3xl md:text-5xl  text-blue-600 mb-6 md:mb-8">About Us</h1>
                         <p className="text-gray-700 text-lg leading-relaxed">
                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius explicabo optio quibusdam aspernatur possimus veritatis omnis, nam minus architecto eveniet ab molestiae fuga magnam maiores mollitia atque eligendi nesciunt eos.
@@ -66,7 +61,7 @@ const AboutUs = () => {
                         </p>
                     </div>
 
-                    <div className="flex flex-col justify-start items-start bg-blue-600 p-10 md:p-16 lg:p-20">
+                    <div className="flex flex-col justify-start items-start bg-blue-600 p-10 md:p-20">
                         <h1 className="text-3xl md:text-5xl text-white mb-6 md:mb-8">What We Do</h1>
                         <p className="text-white text-lg leading-relaxed">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, beatae quod id accusamus aliquam natus corrupti quis illo quas, laudantium a illum aperiam suscipit consequuntur dolor nostrum. Velit, magni consequatur.
@@ -79,9 +74,9 @@ const AboutUs = () => {
             </section>
 
             {/* Our Story section */}
-            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-20">
+            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 ">
                 <div className="grid grid-cols-1 md:grid-cols-2 w-[90%] md:w-[90%] h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
-                    <div className="w-full flex flex-col justify-start items-start bg-blue-600 p-10 md:p-24 lg:p-24">
+                    <div className="w-full flex flex-col justify-start items-start bg-blue-600 p-10 md:p-20">
                         <h1 className="text-3xl md:text-5xl text-white mb-6 md:mb-8">Our Growth Strategy</h1>
                         <ul className="text-white text-lg leading-relaxed list-decimal pl-6">
                             <li>Commitment to innovation and excellence</li>
@@ -97,8 +92,8 @@ const AboutUs = () => {
                         </ul>
                     </div>
 
-                    <div className="flex flex-col justify-start items-start bg-white p-10 md:p-16 lg:p-20">
-                        <h1 className="text-3xl md:text-5xl text-blue-600 mb-6 md:mb-8">Our Success Story</h1>
+                    <div className="flex flex-col justify-start items-start bg-white p-10 md:p-20 ">
+                        <h1 className="text-3xl md:text-5xl text-blue-600 mb-6">Our Success Story</h1>
                         <p className="text-gray-800 text-lg leading-relaxed">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, beatae quod id accusamus aliquam natus corrupti quis illo quas, laudantium a illum aperiam suscipit consequuntur dolor nostrum. Velit, magni consequatur.
                         </p>
@@ -110,11 +105,11 @@ const AboutUs = () => {
             </section>
 
 
-            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
+            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 ">
                 <div className="grid grid-cols-1 md:grid-cols-2 w-11/12 md:w-[90%] h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
 
                     {/* Mission Section */}
-                    <div className="flex flex-col justify-start items-center bg-white p-8 md:p-16 lg:p-20 text-center">
+                    <div className="flex flex-col justify-start items-center bg-white p-8 md:p-20 text-center">
                         <div className="flex flex-col items-center gap-2 mb-4">
                             <BsFillRocketTakeoffFill className="text-blue-600 text-5xl" />
                             <h1 className="text-2xl md:text-4xl text-blue-600">Our Mission</h1>
@@ -128,7 +123,7 @@ const AboutUs = () => {
                     </div>
 
                     {/* Vision Section */}
-                    <div className="flex flex-col justify-start items-center bg-blue-600 p-8 md:p-16 lg:p-20 text-center">
+                    <div className="flex flex-col justify-start items-center bg-blue-600 p-8 md:p-20 text-center">
                         <div className="flex flex-col items-center gap-2 mb-4">
                             <AiFillTrophy className="text-white text-5xl" />
                             <h1 className="text-2xl md:text-4xl text-white">Our Vision</h1>
@@ -144,10 +139,10 @@ const AboutUs = () => {
             </section>
 
             {/* Our Values section  */}
-            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
+            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 ">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-0 w-11/12 md:w-[90%] shadow-lg rounded-lg overflow-hidden">
 
-                 
+
                     <div className="flex flex-col justify-start items-center bg-blue-600 p-8 text-center">
 
                         <FaLightbulb className="text-white text-5xl mb-4" />
@@ -165,7 +160,7 @@ const AboutUs = () => {
                         </p>
                     </div>
 
-              
+
                     <div className="flex flex-col justify-start items-center bg-white p-8 text-center">
                         <FaUsers className="text-blue-600 text-5xl mb-4" />
                         <h1 className="text-2xl md:text-3xl text-blue-600">Customer Focus</h1>
@@ -189,7 +184,7 @@ const AboutUs = () => {
 
 
             {/* Meet Our Team  */}
-            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
+            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 ">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-0 w-11/12 md:w-[90%] shadow-lg rounded-lg overflow-hidden">
                     {teamMembers.map((member, index) => (
                         <div key={index} className={`flex flex-col justify-start items-center ${member.bg} p-5 text-center`}>
@@ -211,10 +206,23 @@ const AboutUs = () => {
                     ))}
                 </div>
             </section>
+            <section className="relative w-full h-[40vh] md:h-[70vh] bg-cover bg-center flex items-center"
+                style={{ backgroundImage: "url('/images/analyze.jpg')" }}
+            >
 
-          <Careers />
-                    
-     
+                <div className="absolute inset-0 bg-gradient-to-b from-cyan-50 via-gray-500/60 to-gray-800"></div>
+
+                <div className="relative max-w-[30%] ml-8 md:ml-16 p-6 rounded-lg shadow-2xl">
+                    <h2 className="text-2xl md:text-5xl font-bold text-white">Join Us</h2>
+                    <p className="mt-2 text-gray-200 text-lg text-justify">
+                        Join our dynamic team and be part of an innovative, fast-paced environment where creativity and collaboration drive success.
+                        Grow your skills, work on exciting projects, and make a real impact with us!
+                    </p>
+                    <button className="mt-4 p-3 bg-transparent text-white rounded-lg border border-white">
+                        Click Here
+                    </button>
+                </div>
+            </section>
         </div>
     );
 };

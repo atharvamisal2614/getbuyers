@@ -189,27 +189,39 @@ const TermsAndCondition = () => {
                         <ul className="list-disc ml-5 space-y-2">
                             <li>
                                 <b>4.1 Responsibilities of Paddle: Paddle is responsible for</b> <br />
-                                For customers who are not registered under GST, VAT, Sales Tax, or similar tax systems, Paddle will issue invoices inclusive of applicable taxes.
-                                For customers who are registered under GST, VAT, Sales Tax, or similar tax systems, Paddle will issue invoices exclusive of applicable taxes, under the reverse charge mechanism, where the customer is responsible for self-assessment and remittance of taxes to the relevant authorities.
+                                For customers who are not registered under GST, VAT, Sales Tax, or similar tax systems, 
+                                Paddle will issue invoices inclusive of applicable taxes.
+                                For customers who are registered under GST, VAT, Sales Tax, or 
+                                similar tax systems, Paddle will issue invoices exclusive of applicable 
+                                taxes, under the reverse charge mechanism, where the customer is responsible 
+                                for self-assessment and remittance of taxes to the relevant authorities.
                                 Collecting payments from customers and remitting the applicable amounts to Getbuyer.
-                                Managing tax calculations and ensuring compliance with applicable tax regulations based on the customer&apos;s tax registration status and jurisdiction.
+                                Managing tax calculations and ensuring compliance with applicable tax regulations based on the 
+                                customer&apos;s tax registration status and jurisdiction.
                                 Handling refunds and chargebacks in accordance with its established policies and procedures.
-                                The buyer is required to pay the full invoiced amount to Paddle.net, inclusive of all applicable taxes or charges. Payments are deemed complete only upon full receipt of the invoiced amount by Paddle.net.
+                                The buyer is required to pay the full invoiced amount to Paddle.net, inclusive of all 
+                                applicable taxes or charges. Payments are deemed complete only upon full receipt of the invoiced amount by Paddle.net.
                             </li>
 
                             <li>
                                 <b>4.2 Refund Policy</b> <br />
-                                Refund requests must be submitted within 3 calendar days of subscription activation. Credits Used Limitation: The account must have consumed fewer than 200 download credits during the subscription period.
+                                Refund requests must be submitted within 3 calendar days of subscription activation. 
+                                Credits Used Limitation: The account must have consumed fewer than 200 download credits 
+                                during the subscription period.
                                 Data Accuracy Clause:
-                                Refunds may also be considered if it is demonstrated that the data provided by Getbuyer contains material inaccuracies. Refund requests for data inaccuracies must include specific evidence of the error.
-                                Refunds are not provided for reasons unrelated to the accuracy or availability of data (e.g., accidental purchases or changes in user needs).
+                                Refunds may also be considered if it is demonstrated that the data provided by 
+                                Getbuyer contains material inaccuracies. Refund requests for data inaccuracies 
+                                must include specific evidence of the error.
+                                Refunds are not provided for reasons unrelated to the accuracy or availability 
+                                of data (e.g., accidental purchases or changes in user needs).
                                 Misuse of the platform, such as violating terms of use, will void eligibility for refunds.
                             </li>
 
 
                             <li>
                                 <b>4.3 Resolution Process</b> <br />
-                                Refund claims will be reviewed on a case-by-case basis, and Getbuyer reserves the right to approve or deny requests based on its findings.
+                                Refund claims will be reviewed on a case-by-case basis, and Getbuyer reserves the right to 
+                                approve or deny requests based on its findings.
                                 Refunds, if approved, will be processed within 30 days, subject to Paddle&apos;s operational policies.
                                 Transaction fees or charges incurred during payment processing are non-refundable.
                             </li>
@@ -236,9 +248,16 @@ const TermsAndCondition = () => {
                             5. Modification of Services
                         </h2>
                         <p>
-                            We continuously strive to improve our services and enhance the security, privacy, and performance for our users. As part of these efforts, we may implement changes, upgrades, or restrictions to our subscription features. These modifications are designed to provide you with a better and safer user experience.
-                            Please note that while we understand and appreciate your feedback, we cannot guarantee the reversion of any changes once they are implemented. Our decisions regarding these updates are made with the best interests of all our users in mind. By continuing to use our services, you agree to accept any such modifications.
-                            you have any concerns or require assistance regarding these changes, please contact our support team. We value your feedback and will strive to address your concerns as best as possible.
+                            We continuously strive to improve our services and enhance the security, 
+                            privacy, and performance for our users. As part of these efforts, we may 
+                            implement changes, upgrades, or restrictions to our subscription features. 
+                            These modifications are designed to provide you with a better and safer user experience.
+                            Please note that while we understand and appreciate your feedback, we cannot 
+                            guarantee the reversion of any changes once they are implemented. Our decisions 
+                            regarding these updates are made with the best interests of all our users in mind. 
+                            By continuing to use our services, you agree to accept any such modifications.
+                            you have any concerns or require assistance regarding these changes, 
+                            please contact our support team. We value your feedback and will strive to address your concerns as best as possible.
                         </p>
 
 
@@ -310,17 +329,23 @@ const TermsAndCondition = () => {
 
                             <li>
                                 <b>10.2 Internal Use Limitations</b> <br />
-                                Refund requests must be submitted within 3 calendar days of subscription activation. Credits Used Limitation: The account must have consumed fewer than 200 download credits during the subscription period.
+                                Refund requests must be submitted within 3 calendar days of subscription 
+                                activation. Credits Used Limitation: The account must have consumed fewer 
+                                than 200 download credits during the subscription period.
                                 Data Accuracy Clause:
-                                Refunds may also be considered if it is demonstrated that the data provided by Getbuyer contains material inaccuracies. Refund requests for data inaccuracies must include specific evidence of the error.
-                                Refunds are not provided for reasons unrelated to the accuracy or availability of data (e.g., accidental purchases or changes in user needs).
+                                Refunds may also be considered if it is demonstrated that the data provided 
+                                by Getbuyer contains material inaccuracies. Refund requests for data inaccuracies 
+                                must include specific evidence of the error.
+                                Refunds are not provided for reasons unrelated to the accuracy or 
+                                availability of data (e.g., accidental purchases or changes in user needs).
                                 Misuse of the platform, such as violating terms of use, will void eligibility for refunds.
                             </li>
 
 
                             <li>
                                 <b>10.3 Resolution Process</b> <br />
-                                Refund claims will be reviewed on a case-by-case basis, and Getbuyer reserves the right to approve or deny requests based on its findings.
+                                Refund claims will be reviewed on a case-by-case basis, and Getbuyer 
+                                reserves the right to approve or deny requests based on its findings.
                                 Refunds, if approved, will be processed within 30 days, subject to Paddle&apos;s operational policies.
                                 Transaction fees or charges incurred during payment processing are non-refundable.
                             </li>
@@ -391,7 +416,8 @@ const TermsAndCondition = () => {
                         <ul className="list-disc ml-5 space-y-2">
                             <li>
                                 <b>12.1 Prohibited Content</b> <br />
-                                Post or transmit material that is unlawful, harmful, abusive, harassing, defamatory, vulgar, offensive, obscene, hateful, or discriminatory.
+                                Post or transmit material that is unlawful, harmful, abusive, harassing, 
+                                defamatory, vulgar, offensive, obscene, hateful, or discriminatory.
                                 Sell or promote products or services illegal in the location where the content is posted.
                                 Sell or promote controlled substances, tobacco, firearms, or alcohol.
                             </li>
@@ -503,7 +529,8 @@ const TermsAndCondition = () => {
 
                             <li>
                                 <b>16.3 Infringement</b> <br />
-                                Infringement by you, or another user using your account, of any intellectual property or other rights of any person or entity.
+                                Infringement by you, or another user using your account, of any 
+                                intellectual property or other rights of any person or entity.
                             </li>
 
                         </ul>
@@ -658,7 +685,7 @@ const TermsAndCondition = () => {
                             </li>
 
                             <li>
-                                <b>22.2 Relationship</b> <br />
+                                <b>21.2 Relationship</b> <br />
                                 This Agreement does not establish any relationship of partnership, joint 
                                 venture, or employment between the parties. Getbuyers retains all 
                                 intellectual property rights associated with its Content, technology, 
@@ -699,5 +726,4 @@ const TermsAndCondition = () => {
         </>
     );
 };
-
 export default TermsAndCondition;
