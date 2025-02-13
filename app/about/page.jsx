@@ -6,7 +6,7 @@ import { FaUsers, FaStar } from "react-icons/fa";
 import { BsFillRocketTakeoffFill } from "react-icons/bs";
 import { IoDiamond } from "react-icons/io5";
 import { FaLightbulb } from "react-icons/fa";
-const AboutUs = () => { 
+const AboutUs = () => {
     const teamMembers = [
         {
             name: "John Doe",
@@ -49,7 +49,7 @@ const AboutUs = () => {
     return (
         <div className="w-full">
             {/* About Us Section  */}
-            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 ">
+            <section className="relative w-full min-h-screen flex items-center justify-center bg-cyan-50 p-4 py-24">
                 <div className="grid grid-cols-1 md:grid-cols-2 w-[90%] md:w-[90%] h-auto md:h-3/4 lg:h-2/3 shadow-lg rounded-lg overflow-hidden">
                     <div className="flex flex-col justify-start items-start bg-white p-10 md:p-20">
                         <h1 className="text-3xl md:text-5xl  text-blue-600 mb-6 md:mb-8">About Us</h1>
@@ -206,23 +206,27 @@ const AboutUs = () => {
                     ))}
                 </div>
             </section>
-            <section className="relative w-full h-[40vh] md:h-[70vh] bg-cover bg-center flex items-center"
+
+            <section
+                className="relative w-full h-[40vh] md:h-[70vh] bg-cover bg-center flex items-center"
                 style={{ backgroundImage: "url('/images/analyze.jpg')" }}
             >
-
+                {/* Overlay */}
                 <div className="absolute inset-0 bg-gradient-to-b from-cyan-50 via-gray-500/60 to-gray-800"></div>
 
-                <div className="relative max-w-[30%] ml-8 md:ml-16 p-6 rounded-lg shadow-2xl">
+                {/* Content Container */}
+                <div className="relative w-[90%] md:w-[40%] mx-auto md:ml-32 p-6 rounded-lg shadow-2xl ">
                     <h2 className="text-2xl md:text-5xl font-bold text-white">Join Us</h2>
-                    <p className="mt-2 text-gray-200 text-lg text-justify">
+                    <p className="mt-2 text-gray-200 text-sm md:text-lg text-justify">
                         Join our dynamic team and be part of an innovative, fast-paced environment where creativity and collaboration drive success.
                         Grow your skills, work on exciting projects, and make a real impact with us!
                     </p>
-                    <button className="mt-4 p-3 bg-transparent text-white rounded-lg border border-white">
+                    <button className="mt-4 p-3 bg-transparent text-white rounded-lg border border-white hover:bg-white hover:text-gray-900 transition">
                         Click Here
                     </button>
                 </div>
             </section>
+
         </div>
     );
 };
