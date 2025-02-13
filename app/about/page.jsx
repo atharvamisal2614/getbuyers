@@ -215,7 +215,7 @@ const AboutUs = () => {
                 <div className="absolute inset-0 bg-gradient-to-b from-cyan-50 via-gray-500/60 to-gray-800"></div>
 
                 {/* Content Container */}
-                <div className="relative w-[90%] md:w-[40%] mx-auto md:ml-32 p-6 rounded-lg shadow-2xl ">
+                <div className="relative w-[10%] md:w-[40%] mx-auto md:ml-32 p-6 rounded-lg shadow-2xl ">
                     <h2 className="text-2xl md:text-5xl font-bold text-white">Join Us</h2>
                     <p className="mt-2 text-gray-200 text-sm md:text-lg text-justify">
                         Join our dynamic team and be part of an innovative, fast-paced environment where creativity and collaboration drive success.
